@@ -16,6 +16,8 @@ Githubの使い方を練習しています
 -Java Bronze試験対策用リポジトリ作成・学習ログ記録
 -React入門(AIを活用)
 -フォルダ構成の整理・ファイルの分割(HTML・CSS・JavaScript)
+-python
+-HTML,CSS,JavaScriptを使用した医薬品管理アプリ
 
 ## 使用技術
 -Java
